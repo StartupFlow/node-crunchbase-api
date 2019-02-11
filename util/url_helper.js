@@ -15,7 +15,7 @@
 
 var qs = require('qs');
 
-var endpoint = 'https://api.crunchbase.com/v/3/';
+var endpoint = 'https://api.crunchbase.com/v3.1/';
 var keyParam, config = {};
 
 function init(apikey) {
